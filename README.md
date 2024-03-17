@@ -6,6 +6,11 @@
 - https://www.fotmob.com
 - https://www.omadagame.com
 
+## Sites
+
+- https://www.lequipe.fr
+- https://rmcsport.bfmtv.com also covering MMA
+
 # MMA
 
 ## Leagues
