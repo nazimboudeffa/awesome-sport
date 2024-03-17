@@ -13,7 +13,7 @@
 ## Stream
 
 - https://rmcsport.bfmtv.com also covering MMA
-- https://www.dazn.com
+- https://www.dazn.com also covering MMA
 - Canal+ sport
 - Bein sport french arabic
 
