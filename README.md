@@ -9,7 +9,13 @@
 ## Sites
 
 - https://www.lequipe.fr
+
+## Stream
+
 - https://rmcsport.bfmtv.com also covering MMA
+- https://www.dazn.com
+- Canal+ sport
+- Bein sport french arabic
 
 # MMA
 
