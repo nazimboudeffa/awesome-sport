@@ -1,5 +1,7 @@
 # LIGUES DE MMA
 
+[SOURCE CNEWS]
+
 Le MMA a le vent en poupe ces dernières 
 années. Les organisations sont nombreuses à organiser des combats 
 régulièrement. Voici la liste.
